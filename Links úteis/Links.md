@@ -1,4 +1,4 @@
-## Links com os Aplicativos que no momento mais utilizo, conforme aprendo, acrescento mais.
+##Links com os Aplicativos que no momento mais utilizo, conforme aprendo, acrescento mais.
 
 
 [Visual Studio Code](https://code.visualstudio.com/download)
@@ -10,5 +10,6 @@
 [Git](https://git-scm.com/downloads)
 
 [DotNet](https://dotnet.microsoft.com/download)
+
 [Formatação de composição] (https://docs.microsoft.com/pt-br/dotnet/standard/base-Types/composite-formatting)
 
