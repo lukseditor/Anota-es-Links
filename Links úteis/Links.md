@@ -1,4 +1,4 @@
-##Links com os Aplicativos que no momento mais utilizo, conforme aprendo, acrescento mais.
+## Links úteis com aplicativos e artigos para aprofundar o conhecimento.
 
 
 [Visual Studio Code](https://code.visualstudio.com/download)
