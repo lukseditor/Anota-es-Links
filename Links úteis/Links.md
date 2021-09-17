@@ -1,4 +1,4 @@
-## Links úteis com aplicativos e artigos para aprofundar o conhecimento.
+## Links úteis com aplicativos atalhos e artigos para aprofundar o conhecimento.
 
 
 [Visual Studio Code](https://code.visualstudio.com/download)
@@ -13,3 +13,6 @@
 
 [Formatação de composição](https://docs.microsoft.com/pt-br/dotnet/standard/base-Types/composite-formatting)
 
+(install-Package Microsoft.EntityFrameworkCore.SqlServer)
+
+(install-Package Microsoft.EntityFrameworkCore.Tools)
